@@ -1,7 +1,7 @@
 main(){
-  //key value
-  // Each value is conn with a key
-  //both keys value any type
+  // map is a key value pair
+  // each value is connected with a key
+  // both keys value can be any type
 
   var person = {
     'name': 'Taufiq',
